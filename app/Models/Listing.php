@@ -11,6 +11,7 @@ class Listing extends Model
 
     protected $fillable = [
         'title',
+        'user_id',
         'company',
         'location',
         'description',
@@ -30,5 +31,10 @@ class Listing extends Model
                 ->orWhere('description', 'like', '%' . $filters['search'] . '%')
                 ->orWhere('tags', 'like', '%' . $filters['search'] . '%');
         }
+    }
+
+    public function user()
+    {
+        return $this->belongsTo(User::class, 'user_id');
     }
 }
