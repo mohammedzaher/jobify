@@ -9,7 +9,7 @@ Jobify is a job listing and posting platform built with Laravel. It allows emplo
 -   User registration and authentication
 -   Job application system
 
-## Images
+<details markdown='1'><summary>Images</summary>
 
 ![image](https://github.com/mohammedzaher/jobify/assets/66143194/ed024a5c-74da-4ff6-9838-b96dd3f227ad)
 ![image](https://github.com/mohammedzaher/jobify/assets/66143194/56ca18e3-a7a4-4f0f-8755-c69364cba56d)
@@ -19,6 +19,8 @@ Jobify is a job listing and posting platform built with Laravel. It allows emplo
 ![image](https://github.com/mohammedzaher/jobify/assets/66143194/4fc32158-502d-487f-bf86-ee1751336f5c)
 ![image](https://github.com/mohammedzaher/jobify/assets/66143194/3f550a01-5548-407f-92a5-95882af98109)
 ![image](https://github.com/mohammedzaher/jobify/assets/66143194/8ed713cd-a916-465b-9fbf-9dbd5282c266)
+
+ </details>
 
 ## Installation
 
