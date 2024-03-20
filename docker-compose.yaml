@@ -9,7 +9,7 @@ services:
       MYSQL_USER: user
       MYSQL_PASSWORD: secret
       MYSQL_ROOT_PASSWORD: secret
-      MYSQL_DATABASE: laragigs
+      MYSQL_DATABASE: jobify
   adminer:
     image: adminer
     restart: always
