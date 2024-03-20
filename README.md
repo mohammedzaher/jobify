@@ -59,4 +59,8 @@ php artisan serve
 
 2. visit `http://localhost:8000` in your browser
 3. Register a new account or log in
-4. Start posting or applying for jobs
+4. Start posting jobs
+
+## Under Development
+
+-   application system
