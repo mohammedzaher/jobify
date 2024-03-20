@@ -36,7 +36,7 @@ git clone https://github.com/mohammedzaher/jobify.git
 composer install
 ```
 
-1. Install JavaScript dependencies
+3. Install JavaScript dependencies
 
 ```bash
 npm install
