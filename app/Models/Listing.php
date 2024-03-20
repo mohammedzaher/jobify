@@ -17,6 +17,7 @@ class Listing extends Model
         'website',
         'email',
         'tags',
+        'logo',
     ];
 
     public function scopeFilter($query, array $filters)
