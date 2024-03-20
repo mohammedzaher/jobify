@@ -22,7 +22,7 @@ class DatabaseSeeder extends Seeder
             'password' => bcrypt('password'),
         ]);
 
-        Listing::factory(6)->create(
+        Listing::factory(20)->create(
             [
                 'user_id' => $user->id
             ]
